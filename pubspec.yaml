@@ -1,0 +1,13 @@
+name: voltage_monitor
+version: 1.0.0+1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_blue: ^0.8.0
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+flutter:
+  uses-material-design: true
